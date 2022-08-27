@@ -12,5 +12,5 @@ app.get('/getWeather', (req, res)=>{
 })
 
 app.listen(5000, ()=>{
-    console.log('port running on 3000');
+    console.log('port running on 5000');
 })
